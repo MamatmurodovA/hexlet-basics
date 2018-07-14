@@ -1,1 +1,2 @@
-# hexlet-basicsinit repository
+# hexlet-basics 
+# init repository
