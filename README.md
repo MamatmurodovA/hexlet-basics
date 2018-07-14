@@ -1,1 +1,1 @@
-# hexlet-basics
+# hexlet-basicsinit repository
